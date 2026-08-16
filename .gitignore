@@ -1,0 +1,6 @@
+# Este repositorio publico leva SO o README. Os pacotes vao como anexo de Release.
+# A regra e' lista branca de proposito: nada de arquivo do jogo, fonte licenciada,
+# arte da publicadora ou binario de build consegue entrar aqui nem por descuido.
+*
+!README.md
+!.gitignore
